@@ -3653,6 +3653,7 @@ struct from;
 #include <string>
 #include <tuple>
 #include <type_traits>
+#include <unordered_set>
 #include <utility>
 
 #if defined(TOML11_HAS_STRING_VIEW)
